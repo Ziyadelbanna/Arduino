@@ -26,7 +26,6 @@ void setup()
 
 void loop() {
   if (irrecv.decode(&results)) {
-
     if(results.value != 4294967295){
     
       if(results.value == 551487735){
@@ -182,5 +181,5 @@ void loop() {
     }
     irrecv.resume(); // Receive the next value
   }
-  delay(100);
+  delay(100);// delay
 }
