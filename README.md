@@ -7,5 +7,3 @@
 * Use the serial monitor to input your message
 * Connect your arduino kit and use Leds and high volume buzzer for a better view
 * After you have connected your kit, Press Enter.
-
-**Understand the code**
