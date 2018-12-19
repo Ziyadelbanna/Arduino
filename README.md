@@ -15,7 +15,7 @@ The first step is to connect your IR reciever.
 
 To connect a breakout board mounted IR receiver, hook it up to the Arduino like this:
 [Breakout mounter IR receiver](https://github.com/ziyadelbanna/Arduino/blob/master/IR/Arduino-IR-Remote-Receiver-Stand-Alone-IR-Receiver-Wiring-Diagram.png)
-To connect a stand-alone receiver diode, wire it like this:
+, And to connect a stand-alone receiver diode, wire it like this:
 [Stand alone receiver diode](https://github.com/ziyadelbanna/Arduino/blob/master/IR/To%20connect%20a%20stand-alone%20receiver%20diode%2C%20wire%20it%20like%20this:)
 
 ```
