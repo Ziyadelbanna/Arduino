@@ -11,7 +11,11 @@
 ### Remote control with IR receiver
 >_Every remote control has its own IR code so to know your remote control copy the following code to your Arduino IDE_
 
-The first step is to connect your IR reciever as follows
+The first step is to connect your IR reciever
+To connect a breakout board mounted IR receiver, hook it up to the Arduino like this:
+
+To connect a stand-alone receiver diode, wire it like this:
+
 
 
 ```
