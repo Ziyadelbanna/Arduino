@@ -1,6 +1,6 @@
 # Arduino projects
 
->_The goal of this repository is to gain solid knowledge about hardware programming, dealing with electronic devices i.e: Arduino development board and uploading code to electronic boards through Arduino IDE and track its impact on serial monitor/ other devices_
+>_The goal of this repository is to gain solid knowledge about hardware programming, dealing with electronic devices i.e: Arduino development board and uploading code to electronic boards through Arduino IDE and track its impact on serial monitor/ other devices._
 
 ### 1. Translate string to morse code
 **How to use the program**
